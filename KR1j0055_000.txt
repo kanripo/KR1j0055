@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 重修廣韻
-#+DATE: 2018-03-28 13:09:50.873381
+#+DATE: 2018-03-28 13:09:51.023608
 #+PROPERTY: ID KR1j0055
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0055_WYG_000-1a>¶
 欽定四庫全書　　　　　　經部十¶
